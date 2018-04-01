@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jiayi Wei</title>
+    <link>https://MrVPlusOne.github.io/home/</link>
+    <description>Recent content in Homes on Jiayi Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 04/01/2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://MrVPlusOne.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://MrVPlusOne.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/home/about/</guid>
+      <description>Biography I am a 0th-year Computer Science PhD student at the University of Texas at Austin. I am a member of the UTOPIA Research Group where I work with my adviser Prof. Işıl Dillig on research problems related to programming languages (PL).
+My current research interests lie within the intersection of Programming Languages, Formal methods, and Artificial Intelligence, and I am particularly interested in teaching computers how to reason about programs using &amp;ldquo;mathematical intuition&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://MrVPlusOne.github.io/home/publications/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/home/publications/</guid>
+      <description> Coming Soon! </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://MrVPlusOne.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://MrVPlusOne.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/home/talks/</guid>
+      <description> Coming Soon! </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://MrVPlusOne.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

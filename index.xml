@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiayi Wei on Jiayi Wei</title>
+    <link>https://MrVPlusOne.github.io/</link>
+    <description>Recent content in Jiayi Wei on Jiayi Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 04/01/2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SpaceY</title>
+      <link>https://MrVPlusOne.github.io/project/spacey/</link>
+      <pubDate>Sun, 25 Mar 2018 16:27:57 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/project/spacey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularity</title>
+      <link>https://MrVPlusOne.github.io/project/singularity/</link>
+      <pubDate>Sat, 10 Mar 2018 16:50:54 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/project/singularity/</guid>
+      <description>&lt;p&gt;Source code coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AscendRec</title>
+      <link>https://MrVPlusOne.github.io/project/ascend-rec/</link>
+      <pubDate>Thu, 01 Jun 2017 16:20:21 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/project/ascend-rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muse</title>
+      <link>https://MrVPlusOne.github.io/project/muse/</link>
+      <pubDate>Sun, 10 Apr 2016 16:03:37 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/project/muse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old Gallery</title>
+      <link>https://MrVPlusOne.github.io/project/old-gallery/</link>
+      <pubDate>Fri, 01 Apr 2016 17:32:53 -0500</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/project/old-gallery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
