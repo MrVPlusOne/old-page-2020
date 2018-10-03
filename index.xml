@@ -6,27 +6,9 @@
     <description>Recent content in Jiayi Wei on Jiayi Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 04/01/2018</copyright>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 10/03/2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Singularity</title>
-      <link>https://MrVPlusOne.github.io/project/singularity/</link>
-      <pubDate>Sat, 10 Mar 2018 16:50:54 -0500</pubDate>
-      
-      <guid>https://MrVPlusOne.github.io/project/singularity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singularity: Pattern Fuzzing for Worst Case Complexity</title>
-      <link>https://MrVPlusOne.github.io/publication/singularity/</link>
-      <pubDate>Sat, 10 Mar 2018 15:29:11 -0500</pubDate>
-      
-      <guid>https://MrVPlusOne.github.io/publication/singularity/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AscendRec</title>

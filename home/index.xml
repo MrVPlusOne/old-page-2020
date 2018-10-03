@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Jiayi Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 04/01/2018</copyright>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 10/03/2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://MrVPlusOne.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,14 +18,14 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://MrVPlusOne.github.io/home/about/</guid>
-      <description>Biography I am a 0th-year Computer Science PhD student at the University of Texas at Austin. I am a member of the UTOPIA Research Group where I work with my adviser Prof. Işıl Dillig on research problems related to Programming Languages.
+      <description>Biography I am a 1st-year Computer Science PhD student at the University of Texas at Austin. I am a member of the UTOPIA Research Group where I work with my adviser Prof. Işıl Dillig on research problems related to Programming Languages.
 My research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence. In particular, I am interested in developing automated approaches for software testing, program synthesis, and theorem proving.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://MrVPlusOne.github.io/home/publications/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>https://MrVPlusOne.github.io/home/publications/</guid>
       <description></description>

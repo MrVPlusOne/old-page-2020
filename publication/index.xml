@@ -6,20 +6,11 @@
     <description>Recent content in Publications on Jiayi Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 04/01/2018</copyright>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 10/03/2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://MrVPlusOne.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Singularity: Pattern Fuzzing for Worst Case Complexity</title>
-      <link>https://MrVPlusOne.github.io/publication/singularity/</link>
-      <pubDate>Sat, 10 Mar 2018 15:29:11 -0500</pubDate>
-      
-      <guid>https://MrVPlusOne.github.io/publication/singularity/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
