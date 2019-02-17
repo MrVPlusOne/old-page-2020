@@ -6,8 +6,8 @@
     <description>Recent content in Homes on Jiayi Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 11/11/2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 02/16/2019</copyright>
+    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://MrVPlusOne.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,11 @@
     <item>
       <title></title>
       <link>https://MrVPlusOne.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://MrVPlusOne.github.io/home/about/</guid>
-      <description>Biography I am a 1st-year Computer Science PhD student at the University of Texas at Austin. I am a member of the UTOPIA Research Group where I work with my adviser Prof. Işıl Dillig on research problems related to Programming Languages.
-My research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence. In particular, I am interested in developing automated approaches for software testing, program synthesis, and theorem proving.</description>
+      <description>Biography I am a 1st-year Computer Science PhD student at the University of Texas at Austin, and I work with my adviser Prof. Işıl Dillig in the UTOPIA Research Group.
+My research interest lies within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence. I am particularly interested in applying Deep Learning techniques to challenging tasks that require Logical Reasoning, such as Program Analysis, Automated Programming, and Theorem Proving &amp;ndash; problems that traditionally can only be tackled by Symbolic, Rule-Based approaches,</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ My research interests lie within the intersection of Programming Languages, Form
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Software</title>
       <link>https://MrVPlusOne.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
