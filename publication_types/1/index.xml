@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jiayi Wei</title>
+    <link>https://MrVPlusOne.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Jiayi Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 02/16/2019</copyright>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://MrVPlusOne.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Singularity: Pattern Fuzzing for Worst Case Complexity</title>
+      <link>https://MrVPlusOne.github.io/publication/singularity/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://MrVPlusOne.github.io/publication/singularity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
