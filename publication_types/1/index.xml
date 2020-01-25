@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Jiayi Wei</title>
+    <title>1 | Jiayi Wei (魏家一)</title>
     <link>https://MrVPlusOne.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Jiayi Wei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 02/16/2019</copyright>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://MrVPlusOne.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 01/25/2020</copyright><lastBuildDate>Sat, 25 Jan 2020 17:15:04 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://MrVPlusOne.github.io/publication_types/1/</link>
+    </image>
     
-	<atom:link href="https://MrVPlusOne.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>LambdaNet: Probabilistic Type Inference using Graph Neural Networks</title>
+      <link>https://MrVPlusOne.github.io/publication/lambdanet/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/publication/lambdanet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Relational Verification using Reinforcement Learning</title>
       <link>https://MrVPlusOne.github.io/publication/coeus/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 15 Aug 2019 17:26:26 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/publication/coeus/</guid>
       <description></description>
     </item>
@@ -24,8 +31,7 @@
     <item>
       <title>Singularity: Pattern Fuzzing for Worst Case Complexity</title>
       <link>https://MrVPlusOne.github.io/publication/singularity/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 09 Mar 2018 17:26:34 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/publication/singularity/</guid>
       <description></description>
     </item>

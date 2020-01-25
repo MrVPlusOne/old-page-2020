@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jiayi Wei</title>
+    <title>Projects | Jiayi Wei (魏家一)</title>
     <link>https://MrVPlusOne.github.io/project/</link>
-    <description>Recent content in Projects on Jiayi Wei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiayi Wei. Last Update: 02/16/2019</copyright>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://MrVPlusOne.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 01/25/2020</copyright><lastBuildDate>Sat, 25 Jan 2020 17:39:10 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://MrVPlusOne.github.io/project/</link>
+    </image>
     
-	<atom:link href="https://MrVPlusOne.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>LambdaNet</title>
+      <link>https://MrVPlusOne.github.io/project/lambdanet/</link>
+      <pubDate>Sat, 25 Jan 2020 17:39:10 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/project/lambdanet/</guid>
+      <description>&lt;p&gt;A neural architecture for automatically inferring the type annotations of TypeScript/JavaScript programs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Singularity</title>
       <link>https://MrVPlusOne.github.io/project/singularity/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/project/singularity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AscendRec</title>
-      <link>https://MrVPlusOne.github.io/project/ascend-rec/</link>
-      <pubDate>Thu, 01 Jun 2017 16:20:21 -0500</pubDate>
-      
-      <guid>https://MrVPlusOne.github.io/project/ascend-rec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Muse</title>
-      <link>https://MrVPlusOne.github.io/project/muse/</link>
-      <pubDate>Sun, 10 Apr 2016 16:03:37 -0500</pubDate>
-      
-      <guid>https://MrVPlusOne.github.io/project/muse/</guid>
-      <description></description>
+      <description>&lt;p&gt;An automated pattern fuzzing framework for determining the worst-case complexity of a given application&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Old Gallery</title>
       <link>https://MrVPlusOne.github.io/project/old-gallery/</link>
-      <pubDate>Fri, 01 Apr 2016 17:32:53 -0500</pubDate>
-      
+      <pubDate>Fri, 01 Jul 2016 17:39:40 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/project/old-gallery/</guid>
-      <description></description>
+      <description>&lt;p&gt;Other projects I did back in undergrad&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Muse</title>
+      <link>https://MrVPlusOne.github.io/project/muse/</link>
+      <pubDate>Sun, 10 Apr 2016 17:39:27 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/project/muse/</guid>
+      <description>&lt;p&gt;An English handwriting synthesizer that turns plain text into stylish handwriting animations&lt;/p&gt;
+</description>
     </item>
     
   </channel>

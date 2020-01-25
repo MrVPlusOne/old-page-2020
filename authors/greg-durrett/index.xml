@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greg Durrett | Jiayi Wei (魏家一)</title>
+    <link>https://MrVPlusOne.github.io/authors/greg-durrett/</link>
+      <atom:link href="https://MrVPlusOne.github.io/authors/greg-durrett/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greg Durrett</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 01/25/2020</copyright><lastBuildDate>Sat, 25 Jan 2020 17:15:04 +0800</lastBuildDate>
+    <item>
+      <title>LambdaNet: Probabilistic Type Inference using Graph Neural Networks</title>
+      <link>https://MrVPlusOne.github.io/publication/lambdanet/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/publication/lambdanet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

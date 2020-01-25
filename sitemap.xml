@@ -1,143 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/publication/coeus/</loc>
-      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/</loc>
+    <lastmod>2020-01-25T17:39:10+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/project/singularity/</loc>
-      <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/project/lambdanet/</loc>
+    <lastmod>2020-01-25T17:39:10+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/publication/singularity/</loc>
-      <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/project/</loc>
+    <lastmod>2020-01-25T17:39:10+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/project/ascend-rec/</loc>
-      <lastmod>2017-06-01T16:20:21-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/jiayi-wei/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication_types/1/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/greg-durrett/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/project/muse/</loc>
-      <lastmod>2016-04-10T16:03:37-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/isil-dillig/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/project/old-gallery/</loc>
-      <lastmod>2016-04-01T17:32:53-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication/lambdanet/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/publication_types/1/</loc>
-      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/maruth-goyal/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication_types/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/</loc>
-      <lastmod>2019-02-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication/</loc>
+    <lastmod>2020-01-25T17:15:04+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/project/</loc>
-      <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/jia-chen/</loc>
+    <lastmod>2019-08-15T17:26:26+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/publication_types/</loc>
-      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/osbert-bastani/</loc>
+    <lastmod>2019-08-15T17:26:26+08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://MrVPlusOne.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication/coeus/</loc>
+    <lastmod>2019-08-15T17:26:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/yu-feng/</loc>
+    <lastmod>2019-08-15T17:26:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/kostas-ferles/</loc>
+    <lastmod>2018-03-09T17:26:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/publication/singularity/</loc>
+    <lastmod>2018-03-09T17:26:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/project/singularity/</loc>
+    <lastmod>2018-03-09T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/project/old-gallery/</loc>
+    <lastmod>2016-07-01T17:39:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/project/muse/</loc>
+    <lastmod>2016-04-10T17:39:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://MrVPlusOne.github.io/tags/</loc>
+  </url>
   
 </urlset>

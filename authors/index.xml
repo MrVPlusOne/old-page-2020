@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Jiayi Wei (魏家一)</title>
+    <link>https://MrVPlusOne.github.io/authors/</link>
+      <atom:link href="https://MrVPlusOne.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 01/25/2020</copyright><lastBuildDate>Sat, 25 Jan 2020 17:15:04 +0800</lastBuildDate>
+    <item>
+      <title>**Jiayi Wei**</title>
+      <link>https://MrVPlusOne.github.io/authors/jiayi-wei/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/jiayi-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greg Durrett</title>
+      <link>https://MrVPlusOne.github.io/authors/greg-durrett/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/greg-durrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isil Dillig</title>
+      <link>https://MrVPlusOne.github.io/authors/isil-dillig/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/isil-dillig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maruth Goyal</title>
+      <link>https://MrVPlusOne.github.io/authors/maruth-goyal/</link>
+      <pubDate>Sat, 25 Jan 2020 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/maruth-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Chen</title>
+      <link>https://MrVPlusOne.github.io/authors/jia-chen/</link>
+      <pubDate>Thu, 15 Aug 2019 17:26:26 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/jia-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osbert Bastani</title>
+      <link>https://MrVPlusOne.github.io/authors/osbert-bastani/</link>
+      <pubDate>Thu, 15 Aug 2019 17:26:26 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/osbert-bastani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Feng</title>
+      <link>https://MrVPlusOne.github.io/authors/yu-feng/</link>
+      <pubDate>Thu, 15 Aug 2019 17:26:26 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/yu-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kostas Ferles</title>
+      <link>https://MrVPlusOne.github.io/authors/kostas-ferles/</link>
+      <pubDate>Fri, 09 Mar 2018 17:26:34 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/kostas-ferles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://MrVPlusOne.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a 2nd-year Computer Science PhD student at UT Austin, where I work with my adviser 
+&lt;a href=&#34;http://www.cs.utexas.edu/~isil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Işıl Dillig&lt;/a&gt;
+ in the 
+&lt;a href=&#34;http://utopia.cs.utexas.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UTOPIA Research Group&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;My research focuses on combining machine learning with programming language techniques. My long term goal aims at developing effective neural-symbolic systems to tackle various challenging problems emerging from the domains of programming languages, automated logical reasoning, and software engineering.&lt;/p&gt;
+&lt;p&gt;Before joining UTOPIA, I received my bachelor&amp;rsquo;s degree in Physics from the University of Science and Technology of China.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
