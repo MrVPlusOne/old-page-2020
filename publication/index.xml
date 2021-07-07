@@ -5,12 +5,20 @@
     <link>https://MrVPlusOne.github.io/publication/</link>
       <atom:link href="https://MrVPlusOne.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 09/4/2020</copyright><lastBuildDate>Sat, 25 Jan 2020 17:15:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Update: 09/4/2020</copyright><lastBuildDate>Wed, 14 Apr 2021 17:15:04 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://MrVPlusOne.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>OneVision: Centralized to Distributed Controller Synthesis with Delay Compensation</title>
+      <link>https://MrVPlusOne.github.io/publication/onevision/</link>
+      <pubDate>Wed, 14 Apr 2021 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/publication/onevision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LambdaNet: Probabilistic Type Inference using Graph Neural Networks</title>
