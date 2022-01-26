@@ -5,11 +5,11 @@
     <link>https://MrVPlusOne.github.io/authors/</link>
       <atom:link href="https://MrVPlusOne.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jiayi Wei. Last updated: 10/2/2021</copyright><lastBuildDate>Wed, 14 Apr 2021 17:15:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jiayi Wei. Last updated: 10/2/2021</copyright><lastBuildDate>Tue, 01 Mar 2022 17:15:04 +0800</lastBuildDate>
     <item>
       <title>**Jiayi Wei**</title>
       <link>https://MrVPlusOne.github.io/authors/jiayi-wei/</link>
-      <pubDate>Wed, 14 Apr 2021 17:15:04 +0800</pubDate>
+      <pubDate>Tue, 01 Mar 2022 17:15:04 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/authors/jiayi-wei/</guid>
       <description></description>
     </item>
@@ -17,15 +17,23 @@
     <item>
       <title>Isil Dillig</title>
       <link>https://MrVPlusOne.github.io/authors/isil-dillig/</link>
-      <pubDate>Wed, 14 Apr 2021 17:15:04 +0800</pubDate>
+      <pubDate>Tue, 01 Mar 2022 17:15:04 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/authors/isil-dillig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jarrett Holtz</title>
+      <link>https://MrVPlusOne.github.io/authors/jarrett-holtz/</link>
+      <pubDate>Tue, 01 Mar 2022 17:15:04 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/authors/jarrett-holtz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joydeep Biswas</title>
       <link>https://MrVPlusOne.github.io/authors/joydeep-biswas/</link>
-      <pubDate>Wed, 14 Apr 2021 17:15:04 +0800</pubDate>
+      <pubDate>Tue, 01 Mar 2022 17:15:04 +0800</pubDate>
       <guid>https://MrVPlusOne.github.io/authors/joydeep-biswas/</guid>
       <description></description>
     </item>
@@ -103,7 +111,7 @@
 &lt;a href=&#34;http://www.cs.utexas.edu/~isil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Işıl Dillig&lt;/a&gt;
  and 
 &lt;a href=&#34;https://www.joydeepb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joydeep Biswas&lt;/a&gt;
-. I currently work on applying probabilistic program synthesis to robotics applications, and my past research has been mostly focusing on combining machine learning with programming language techniques and its application in programming languages and software engineering. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China.&lt;/p&gt;
+. I currently work on applying probabilistic program synthesis to robotics applications, and my past research has been mostly focusing on combining machine learning with programming language applications. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China.&lt;/p&gt;
 </description>
     </item>
     
