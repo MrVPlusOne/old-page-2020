@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Learning probabilistic motion models from only a small amount of noisy and indirect observations.">
+  <meta name="description" content="An Monte Carlo expectation-maximization algorithm for learning stochastic kinodynamic models from noisy and indirect observations.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://MrVPlusOne.github.io/publication/sedl/">
@@ -266,8 +266,8 @@
   
   <meta property="og:site_name" content="Jiayi Wei (魏家一)">
   <meta property="og:url" content="https://MrVPlusOne.github.io/publication/sedl/">
-  <meta property="og:title" content="SEDL: Simultaneous State Estimation and Dynamics Learning from Indirect Observations (ongoing project) | Jiayi Wei (魏家一)">
-  <meta property="og:description" content="Learning probabilistic motion models from only a small amount of noisy and indirect observations."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | Jiayi Wei (魏家一)">
+  <meta property="og:description" content="An Monte Carlo expectation-maximization algorithm for learning stochastic kinodynamic models from noisy and indirect observations."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -299,7 +299,7 @@
     "@type": "WebPage",
     "@id": "https://MrVPlusOne.github.io/publication/sedl/"
   },
-  "headline": "SEDL: Simultaneous State Estimation and Dynamics Learning from Indirect Observations (ongoing project)",
+  "headline": "STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations",
   
   "datePublished": "2022-01-01T17:15:04+08:00",
   "dateModified": "2022-01-26T13:08:35-06:00",
@@ -317,7 +317,7 @@
       "url": "img/https://MrVPlusOne.github.io/"
     }
   },
-  "description": "Learning probabilistic motion models from only a small amount of noisy and indirect observations."
+  "description": "An Monte Carlo expectation-maximization algorithm for learning stochastic kinodynamic models from noisy and indirect observations."
 }
 </script>
 
@@ -335,7 +335,7 @@
 
 
 
-  <title>SEDL: Simultaneous State Estimation and Dynamics Learning from Indirect Observations (ongoing project) | Jiayi Wei (魏家一)</title>
+  <title>STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations | Jiayi Wei (魏家一)</title>
 
 </head>
 
@@ -575,7 +575,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>SEDL: Simultaneous State Estimation and Dynamics Learning from Indirect Observations (ongoing project)</h1>
+  <h1>STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations</h1>
 
   
 
@@ -638,6 +638,53 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2203.01299" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/MrVPlusOne/STEADY" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -648,8 +695,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">More accurate dynamical models enable better performance in downstream robotics tasks such as state estimation, motion planning, and model-predictive control. Traditionally, learning such models requires highly precise measurements of robot states, which can be hard to obtain in settings such as high-speed outdoor robots. In this work, we propose a new dynamics learning technique that is simple to implement, works for real-world robots, and outperforms existing approaches.
-Our technique parameterizes the probabilistic motion model using a deep neural network, which is then trained by maximizing the marginal data likelihood that considers all possible state trajectories consistent with the observations. We use a generalized Monte-Carlo expectation-maximization algorithm to iteratively improve the dynamics and state estimation over time, where the E-step samples state trajectories using a particle filter and the M-step optimizes the dynamics by taking a single gradient step.</p>
+    <p class="pub-abstract">Accurate kinodynamic models play a crucial role in many robotics applications such as off-road navigation and high-speed driving. Many state-of-the-art approaches in learning stochastic kinodynamic models, however, require precise measurements of robot states as labeled input/output examples, which can be hard to obtain in outdoor settings due to limited sensor capabilities and the absence of ground truth. In this work, we propose a new technique for learning neural stochastic kinodynamic models from noisy and indirect observations by performing simultaneous state estimation and dynamics learning. The proposed technique iteratively improves the kinodynamic model in an expectation-maximization loop, where the E Step samples posterior state trajectories using particle filtering, and the M Step updates the dynamics to be more consistent with the sampled trajectories via stochastic gradient ascent. We evaluate our approach on both simulation and real-world benchmarks and compare it with several baseline techniques. Our approach not only achieves significantly higher accuracy but is also more robust to observation noise, thereby showing promise for boosting the performance of many other robotics applications.</p>
     
 
     
@@ -679,7 +725,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">To be submitted</div>
+          <div class="col-12 col-md-9">Submitted to IROS 2022</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -710,7 +756,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://MrVPlusOne.github.io/publication/sedl/&amp;text=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://MrVPlusOne.github.io/publication/sedl/&amp;text=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -723,7 +769,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://MrVPlusOne.github.io/publication/sedl/&amp;t=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://MrVPlusOne.github.io/publication/sedl/&amp;t=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -736,7 +782,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="mailto:?subject=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29&amp;body=https://MrVPlusOne.github.io/publication/sedl/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations&amp;body=https://MrVPlusOne.github.io/publication/sedl/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -749,7 +795,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://MrVPlusOne.github.io/publication/sedl/&amp;title=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://MrVPlusOne.github.io/publication/sedl/&amp;title=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -762,7 +808,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29%20https://MrVPlusOne.github.io/publication/sedl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20https://MrVPlusOne.github.io/publication/sedl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -775,7 +821,7 @@ Our technique parameterizes the probabilistic motion model using a deep neural n
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://MrVPlusOne.github.io/publication/sedl/&amp;title=SEDL:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations%20%28ongoing%20project%29" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://MrVPlusOne.github.io/publication/sedl/&amp;title=STEADY:%20Simultaneous%20State%20Estimation%20and%20Dynamics%20Learning%20from%20Indirect%20Observations" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
