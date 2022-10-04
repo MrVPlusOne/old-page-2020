@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD Student in Computer Science">
+  <meta name="description" content="Combining the strengths of CodeT5 and static analysis to predict Python type annotations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://MrVPlusOne.github.io/publication_types/">
+  <link rel="alternate" hreflang="en-us" href="https://MrVPlusOne.github.io/publication/typet5/">
 
   
 
@@ -246,14 +246,12 @@
 
 
   
-  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Jiayi Wei (魏家一)">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://MrVPlusOne.github.io/publication_types/">
+  <link rel="canonical" href="https://MrVPlusOne.github.io/publication/typet5/">
 
   
   
@@ -267,18 +265,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Jiayi Wei (魏家一)">
-  <meta property="og:url" content="https://MrVPlusOne.github.io/publication_types/">
-  <meta property="og:title" content="Publication_types | Jiayi Wei (魏家一)">
-  <meta property="og:description" content="PhD Student in Computer Science"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:url" content="https://MrVPlusOne.github.io/publication/typet5/">
+  <meta property="og:title" content="TypeT5: Seq2seq Type Inference using Static Analysis | Jiayi Wei (魏家一)">
+  <meta property="og:description" content="Combining the strengths of CodeT5 and static analysis to predict Python type annotations."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-10-01T17:15:04&#43;08:00">
+    
+      <meta property="article:published_time" content="2022-10-01T17:15:04&#43;08:00">
+    
+    <meta property="article:modified_time" content="2022-10-03T20:27:07-07:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://MrVPlusOne.github.io/publication/typet5/"
+  },
+  "headline": "TypeT5: Seq2seq Type Inference using Static Analysis",
+  
+  "datePublished": "2022-10-01T17:15:04+08:00",
+  "dateModified": "2022-10-03T20:27:07-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "**Jiayi Wei**"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jiayi Wei (魏家一)",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "img/https://MrVPlusOne.github.io/"
+    }
+  },
+  "description": "Combining the strengths of CodeT5 and static analysis to predict Python type annotations."
+}
+</script>
+
+  
 
   
 
@@ -286,10 +329,13 @@
   
 
 
+  
 
 
 
-  <title>Publication_types | Jiayi Wei (魏家一)</title>
+
+
+  <title>TypeT5: Seq2seq Type Inference using Static Analysis | Jiayi Wei (魏家一)</title>
 
 </head>
 
@@ -508,6 +554,92 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>TypeT5: Seq2seq Type Inference using Static Analysis</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/jiayi-wei/"><strong>Jiayi Wei</strong></a></span>, <span><a href="/authors/greg-durrett/">Greg Durrett</a></span>, <span><a href="/authors/isil-dillig/">Isil Dillig</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -517,55 +649,233 @@
 
 
 
-
-
-
-
-  
-
-  
-  
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Publication_types</h1>
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/forum?id=4TyNEhI2GdN" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">There has been growing interest in automatically predicting missing type annotations in programs written in Python and Javascript. Prior methods have achieved impressive accuracy when predicting the most common types, but they often perform poorly on rare or complex types (or do not support them at all).  In this paper, we present a new type inference method that treats type prediction as a code completion task by leveraging CodeT5, a state-of-the-art seq2seq pre-trained language model for code. Our method uses static analysis to construct context for each code element whose type is to be predicted by the model. We also propose a sequential decoding scheme that incorporates previous type predictions in the model&rsquo;s input context, allowing information exchange between related code elements. Our evaluation shows that our proposed approach, TypeT5, not only achieves a higher overall accuracy (particularly on rare and complex types) but also produces more coherent results with fewer type errors, while enabling easy user intervention.</p>
     
+
     
-    <div>
-      <h2><a href="/publication_types/3/" >3</a></h2>
-      <div class="article-style">
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
-  
+    <div class="d-md-none space-below"></div>
     
+
     
-    
-    <div>
-      <h2><a href="/publication_types/1/" >1</a></h2>
-      <div class="article-style">
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">ICLR 2023 (under review)</div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
-  
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://MrVPlusOne.github.io/publication/typet5/&amp;text=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://MrVPlusOne.github.io/publication/typet5/&amp;t=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis&amp;body=https://MrVPlusOne.github.io/publication/typet5/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://MrVPlusOne.github.io/publication/typet5/&amp;title=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis%20https://MrVPlusOne.github.io/publication/typet5/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://MrVPlusOne.github.io/publication/typet5/&amp;title=TypeT5:%20Seq2seq%20Type%20Inference%20using%20Static%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
+  
+    
+  
+  
 
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/jiayi-wei/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       
