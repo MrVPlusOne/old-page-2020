@@ -37,6 +37,15 @@
     </item>
     
     <item>
+      <title>STEADY</title>
+      <link>https://MrVPlusOne.github.io/project/steady/</link>
+      <pubDate>Thu, 25 Mar 2021 17:39:10 +0800</pubDate>
+      <guid>https://MrVPlusOne.github.io/project/steady/</guid>
+      <description>&lt;p&gt;A Julia library to perform simultaneous state estimation and dynamics learning from indirect observations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LambdaNet</title>
       <link>https://MrVPlusOne.github.io/project/lambdanet/</link>
       <pubDate>Sat, 25 Jan 2020 17:39:10 +0800</pubDate>
