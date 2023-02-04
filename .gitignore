@@ -1,0 +1,9 @@
+# IDEs
+.idea/
+.DS_Store
+.lh
+
+# Hugo
+resources/
+public/
+.hugo_build.lock
