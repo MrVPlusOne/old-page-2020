@@ -5,7 +5,7 @@
     <link>https://MrVPlusOne.github.io/authors/</link>
       <atom:link href="https://MrVPlusOne.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jiayi Wei. Last updated: Jul 12, 2022</copyright><lastBuildDate>Sat, 01 Oct 2022 17:15:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Jiayi Wei. Last updated: Jul 12, 2022</copyright><lastBuildDate>Sat, 01 Oct 2022 17:15:04 +0800</lastBuildDate>
     <item>
       <title>**Jiayi Wei**</title>
       <link>https://MrVPlusOne.github.io/authors/jiayi-wei/</link>
@@ -107,11 +107,11 @@
       <link>https://MrVPlusOne.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://MrVPlusOne.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a 5th-year Computer Science PhD student at UT Austin, co-advised by 
+      <description>&lt;p&gt;I am a 5th-year Computer Science PhD candidate at UT Austin, advised by 
 &lt;a href=&#34;http://www.cs.utexas.edu/~isil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Işıl Dillig&lt;/a&gt;
  and 
-&lt;a href=&#34;https://www.joydeepb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joydeep Biswas&lt;/a&gt;
-. My current research focuses on applying deep learning techniques to programming languages tasks (such as probabilistic type inference for gradually typed languages like Python and Javascript). In my early PhD years, I also had many other research interests and worked on diverse topics ranging from software security and verification to program synthesis and robotics. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China. I was also a former PhD intern at Facebook and JetBrains.&lt;/p&gt;
+&lt;a href=&#34;https://www.cs.utexas.edu/~gdurrett/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Greg Durrett&lt;/a&gt;
+. My current research focuses on combining deep learning with static analysis techniques to automate programming tasks such as inferring type annotations and suggesting code changes. During my first few years as a PhD student, I also explored a range of other research interests, including software security and verification, program synthesis, and robotics. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China. I was also a former PhD intern at Facebook and JetBrains.&lt;/p&gt;
 </description>
     </item>
     
